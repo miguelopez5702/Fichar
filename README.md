@@ -1,21 +1,21 @@
-Siqui, siqui, siqui Daddy Yankee, yoh
-Ra-Ra-Randy
-Hoy salgo pa la calle sin rumbo, oh-oh-oh-oh (camina conmigo en ésta, c'mon!)
-Como un vagabundo sin rumbo, oh-oh-oh-oh
-Hoy sí que no hay nada que me pare, eh-eh (insuperable, pa)
-Hoy una gatita me llevaré, eh-eh (one, two, ¡oh! C'mon!)
-La luna tá llena y la disco llena 'e soltera' y andan coqueteando
-Hoy sí de seguro que voy a encontrar lo que ando buscando (c'mon! ¡Yeh!)
-El bajo retumba y suena como e', eh-eh
-Hoy una gatita me llevaré, eh-eh (boss, boss, boss!)
-Hoy salgo pa la calle, ma, fino y elegante
-¿Qué? Fino y elegante
-Soy dueño de la carretera en el volante
-¿Por qué? 'Toy fino y elegante
-Tranquilito (oh)
-Bajo con mi combo a circuito, (oh) ey
-Llegamo' a la disco (oh) y me quedo bizco
-Y el futuro tá escrito (¡oh!)
+Siqui, siqui, siqui Daddy Yankee, yoh<br>
+Ra-Ra-Randy<br>
+Hoy salgo pa la calle sin rumbo, oh-oh-oh-oh (camina conmigo en ésta, c'mon!)<br>
+Como un vagabundo sin rumbo, oh-oh-oh-oh<br>
+Hoy sí que no hay nada que me pare, eh-eh (insuperable, pa)<br>
+Hoy una gatita me llevaré, eh-eh (one, two, ¡oh! C'mon!)<br>
+La luna tá llena y la disco llena 'e soltera' y andan coqueteando<br>
+Hoy sí de seguro que voy a encontrar lo que ando buscando (c'mon! ¡Yeh!)<br>
+El bajo retumba y suena como e', eh-eh<br>
+Hoy una gatita me llevaré, eh-eh (boss, boss, boss!)<br>
+Hoy salgo pa la calle, ma, fino y elegante<br>
+¿Qué? Fino y elegante<br>
+Soy dueño de la carretera en el volante<br>
+¿Por qué? 'Toy fino y elegante<br>
+Tranquilito (oh)<br>
+Bajo con mi combo a circuito, (oh) ey<br>
+Llegamo' a la disco (oh) y me quedo bizco<br>
+Y el futuro tá escrito (¡oh!)<br>
 Cualquiera se pierde (yeh) con gata' rebelde' (yeh)
 Y yo con lo' verde' (uh)
 Te apuesto lo que sea a que hago un buen levante
