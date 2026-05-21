@@ -51,19 +51,19 @@ Que le dé lo de ella sin problema' y con la' paca' llena'<br>
 Ese trajecito suave de algodón<br>
 Caigo, caigo en tentación (yeh)<br>
 Ey<br>
-La luna tá llena y la disco llena 'e soltera' y andan coqueteando
-Hoy sí de seguro que voy a encontrar lo que ando buscando
-El bajo retumba y suena como e', eh-eh
-Hoy una gatita me llevaré, eh-eh
-Luny Tunes
-Siqui, siqui, siqui Daddy Yankee, yoh
-Ra-Ra-Randy
-Nota-Nota Loca
-Y somo' talento del barrio, ¿okey?
-Insuperables, inigualables
-Tú lo sabe'
-Hoy salgo pa la calle sin rumbo, oh-oh-oh-oh
-Como un vagabundo sin rumbo, oh-oh-oh-oh
-Hoy sí que no hay nada (boss!) que me pare, eh-eh (boss!)
-Hoy una gatita me llevaré, eh-eh (siqui Daddy)
-¡Da-ddy Yan-kee!
+La luna tá llena y la disco llena 'e soltera' y andan coqueteando<br>
+Hoy sí de seguro que voy a encontrar lo que ando buscando<br>
+El bajo retumba y suena como e', eh-eh<br>
+Hoy una gatita me llevaré, eh-eh<br>
+Luny Tunes<br>
+Siqui, siqui, siqui Daddy Yankee, yoh<br>
+Ra-Ra-Randy<br>
+Nota-Nota Loca<br>
+Y somo' talento del barrio, ¿okey?<br>
+Insuperables, inigualables<br>
+Tú lo sabe'<br>
+Hoy salgo pa la calle sin rumbo, oh-oh-oh-oh<br>
+Como un vagabundo sin rumbo, oh-oh-oh-oh<br>
+Hoy sí que no hay nada (boss!) que me pare, eh-eh (boss!)<br>
+Hoy una gatita me llevaré, eh-eh (siqui Daddy)<br>
+¡Da-ddy Yan-kee!<br>
