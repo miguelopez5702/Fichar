@@ -1,0 +1,47 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* Imagen de fondo a pantalla completa */
+  background-image: url('imagen.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  
+  /* Evita que la página principal tenga barras de scroll */
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; 
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinea el iframe arriba para móviles */
+}
+
+.app-iframe {
+  /* Dimensiones del iframe: ocupa todo el ancho y alto disponible */
+  width: 100%;
+  max-width: 420px; /* Limita el ancho en ordenadores para que parezca móvil */
+  height: 100vh;
+  border: none;
+  background-color: transparent; /* Hace invisible el hueco vacío */
+  
+  /* Oculta la barra de scroll nativa en Firefox */
+  scrollbar-width: none; 
+}
+
+/* Oculta la barra de scroll en Chrome, Safari y Edge */
+.app-iframe::-webkit-scrollbar {
+  display: none; 
+}
+
+/* En monitores de escritorio (con más altura), centramos el contenido verticalmente */
+@media (min-height: 850px) {
+  body {
+    align-items: center;
+  }
+}
